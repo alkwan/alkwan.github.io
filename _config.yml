@@ -1,19 +1,19 @@
 # site settings
 title: Alaina Kwan
-subtitle: by HTML5 UP
+subtitle: 
 email: kwan.alaina@gmail.com
-description: Junior UX/UI designer and front end web developer.
+description: I'm a junior UX/UI designer.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 github_url: https://github.com/alkwan
-instagram_url: https://instagram.com
+instagram_url: https://instagram.com/aeyeonarts
 linkedin_url: https://www.linkedin.com/in/alaina-kwan/
 
 # build settings
