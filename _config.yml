@@ -5,7 +5,7 @@ email: kwan.alaina@gmail.com
 description: I'm a junior UX/UI designer.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://alainakwan.com # the base hostname & protocol for your site
-author: Alaina Kwan
+author: Alaina
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
