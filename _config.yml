@@ -1,11 +1,11 @@
 # site settings
 title: Alaina Kwan
-subtitle: 
+subtitle: UX/UI Portfolio
 email: kwan.alaina@gmail.com
 description: I'm a junior UX/UI designer.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+baseurl: # the subpath of your site, e.g. /blog
+url: https://alainakwan.com # the base hostname & protocol for your site
+author: Alaina Kwan
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
