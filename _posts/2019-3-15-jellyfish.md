@@ -34,9 +34,9 @@ nav-menu: true
 <!-- Elements -->
 <h3 id="elements">Project Overview</h3>
 
-<p><span class="image left"><img src="{{site.baseurl}}/assets/images/current_tech_proscons.png" alt="Whiteboard with pros and cons."/></span>
+<p><span class="image left"><img src="assets/images/current_tech_proscons.png" alt="Whiteboard with pros and cons."/></span>
 What makes a great mobile phone? Why do people choose and stick to certain operating systems, like Android or iPhone? These were the types of questions my group asked ourselves as we tackled creating a brand new mobile operating system. We got into the nitty gritty of what we liked and disliked about current devices and began brainstorming ideas for a new device of our own. Since we were also creating something entirely new, we decided to focus on an audience of young, tech-savvy, professionals. As we narrowed this down, we found a few key aspects to focus in on: <b>personalization</b> and <b>ease of use</b>.
-<span class="image fit"><img src="{{site.baseurl}}/assets/images/device_brainstorming.png"/></span></p>
+<span class="image fit"><img src="assets/images/device_brainstorming.png"/></span></p>
 
 <p>After deciding on our overall system, we created</p>
 
