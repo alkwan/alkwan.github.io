@@ -17,7 +17,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="assets/images/ecc_photo_square.png" alt="" data-position="center center" />
+		<img src="/assets/images/ecc_photo_square.png" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -29,7 +29,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/taiko_alaina.png" alt="" data-position="top center" />
+		<img src="/assets/images/taiko_alaina.png" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -40,7 +40,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/taiko_concert_2018_square.png" alt="" data-position="25% 25%" />
+		<img src="/assets/images/taiko_concert_2018_square.png" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
