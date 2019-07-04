@@ -1,19 +1,4 @@
 (function($) {
-
-	$(window).resize(function() {
-
-	  var newWidth = $fluidEl.width();
-	  $allVideos.each(function() {
-
-	    var $el = $(this);
-	    $el
-	        .width(newWidth)
-	        .height(newWidth * $el.attr('data-aspectRatio'));
-
-	  });
-
-	}).resize();
-
 	/**
 	 * Generate an indented list of links from a nav. Meant for use with panel().
 	 * @return {jQuery} jQuery object.
