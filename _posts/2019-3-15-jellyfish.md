@@ -35,10 +35,11 @@ nav-menu: true
 			<h3 id="elements">Project Overview</h3>
 			<h4>The Problem</h4>
 			<p><span class="image left"><img src="/assets/images/current_tech_proscons.PNG" alt="Whiteboard with pros and cons."/></span>
-			What makes a great mobile phone? Why do people choose and stick to certain operating systems, like Android or iPhone? These were the types of questions my group asked ourselves as we tackled creating a brand new mobile operating system. We got into the nitty gritty of what we liked and disliked about current devices and began brainstorming ideas for a new device of our own. Since we were creating something entirely new, we decided to focus on an audience of young, tech-savvy, professionals. As we narrowed this down, we found a few key aspects to focus in on: <b>personalization</b> and <b>ease of use</b>.
+			What makes a great mobile phone? Why do people choose and stick to certain operating systems, like Android or iPhone? These were the types of questions my group asked ourselves as we tackled creating a brand new mobile operating system. We got into the nitty gritty of what we liked and disliked about current devices and began brainstorming ideas for a new device of our own. Since we were creating something entirely new, we decided to focus on an audience of young, tech-savvy professionals. As we narrowed this down, we found a few key aspects to focus in on: <b>personalization</b> and <b>ease of use</b>.
 			<span class="image fit"><img src="/assets/images/device_brainstorming.PNG"/></span></p>
 			<h4>Our Solution</h4>
-			<p></p>
+			<p>Beginning with a design language and finishing with 10 app designs, my team created Jellyfish OS. We created a mood board for what we wanted our operating system to feel like, created screens based on those images, and iterated on our designs and design language each week after getting feedback from our professor.</p>
+			<span class="image fit"><img src="/assets/images/jellyfish/"/></span>
 			<hr class="major" />
 			<h3 id="elements">My Work</h3>
             <h4>Research and Planning</h4>
