@@ -21,7 +21,8 @@ nav-menu: true
 				</div>
 				<div class="4u 12u$(medium)">
 					<h4>My Role</h4>
-					<ul class="alt"><li>UX/UI design - Messages application</li>
+					<ul class="alt"><li>UI Animation</li>
+					<li>UX/UI design - Messages application</li>
 					<li>Icon design and implementation</li></ul>
 				</div>
 				<div class="4u$ 12u$(medium)">
@@ -38,16 +39,21 @@ nav-menu: true
 			What makes a great mobile phone? Why do people choose and stick to certain operating systems, like Android or iPhone? These were the types of questions my group asked ourselves as we tackled creating a brand new mobile operating system. We got into the nitty gritty of what we liked and disliked about current devices and began brainstorming ideas for a new device of our own. Since we were creating something entirely new, we decided to focus on an audience of young, tech-savvy professionals. As we narrowed this down, we found a few key aspects to focus in on: <b>personalization</b> and <b>ease of use</b>.
 			<span class="image fit"><img src="/assets/images/device_brainstorming.PNG"/></span></p>
 			<h4>Our Solution</h4>
-			<p>Beginning with a design language and finishing with 10 app designs, my team created Jellyfish OS. We created a mood board for what we wanted our operating system to feel like, created screens based on those images, and iterated on our designs and design language each week after getting feedback from our professor.</p>
-			<span class="image fit"><img src="/assets/images/jellyfish/"/></span>
+			<p><span class="image right"><img src="/assets/images/jellyfish/moodboard.gif"/></span>My team started by creating a mood board that conveyed the look and feel of our imagined operating system. Using the mood board as inspiration, we created a design language, for which we came up with seven design principles. Our operating system was to be <b>animated</b>, <b>fluid</b>, <b>iridescent</b>, <b>tactile</b>, <b>modern</b>, and <b>personalized</b>. We wanted users to have a smooth, responsive, and enjoyable experience. With these principles in mind, we laid down the ground work for our OS by identifying and creating user journeys, common layouts/design patterns, and interaction design. Once we had this foundation, we designed 10 apps total, presenting our designs once a week and getting feedback from our professor and TA.</p>
 			<hr class="major" />
 			<h3 id="elements">My Work</h3>
             <h4>Research and Planning</h4>
-			<!-- User journeys, gestures/interaction design, mood board, animation research -->
-			<p></p>
+			<!-- Animation research -->
+			<p><span class="image left"><img src="/assets/images/jellyfish/jellyfish.gif"/></span>During our process, we identified <b>animated</b> as one of our design principles. We would later find it too difficult to implement in our final designs, but I was tasked with the job of researching and coming up with UI animation. While I am familiar with 3D character animation, this was my first time attempting UI animation. Using tutorials and example files online, I created these animations in Adobe After Effects.</p><p>To the left is my first attempt at line animation in After Effects, and below are the UI animations I created. Interface designs were not done by me.</p>
+			<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="/assets/images/jellyfish/clock_countdown.gif" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="/assets/images/jellyfish/notification_options.gif" alt="" /></span></div>
+					<div class="4u$"><span class="image fit"><img src="/assets/images/jellyfish/notification_swipe_dif_speed.gif" alt="" /></span></div>
+			</div>
 			<h4>App Design</h4>
 			<!-- Messages app -->
-			<p></p>
+			<p>For one of our 10 apps, I created the Messages app. I started out by doing some competitive analysis of other existing messaging apps.</p>
+			<span class="image fit"><img src="/assets/images/jellyfish/">
 			<h4>Icon Library</h4>
 			<!-- Created a library of ~80 icons -->
 			<p></p>
