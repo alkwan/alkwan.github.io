@@ -52,8 +52,11 @@ nav-menu: true
 			</div>
 			<h4>App Design</h4>
 			<!-- Messages app -->
-			<p>For one of our 10 apps, I created the Messages app. I started out by doing some competitive analysis of other existing messaging apps.</p>
-			<span class="image fit"><img src="/assets/images/jellyfish/">
+			<p>For one of our 10 apps, I created the Messages app. I started out by doing some competitive analysis of other existing messaging apps. I picked out the elements that I liked and disliked, then combined them and made sure they matched our design language</p>
+			<span class="image fit"><img src="/assets/images/jellyfish/references.png"/></span>
+			<span class="image fit"><img src="/assets/images/jellyfish/messages_v1.png"/></span>
+			<span class="image fit"><img src="/assets/images/jellyfish/messages_v2.png"/></span>
+			<p class="caption"></p>
 			<h4>Icon Library</h4>
 			<!-- Created a library of ~80 icons -->
 			<p></p>
