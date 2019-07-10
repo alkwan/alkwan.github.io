@@ -50,16 +50,23 @@ nav-menu: true
 					<div class="4u"><span class="image fit"><img src="/assets/images/jellyfish/notification_options.gif" alt="" /></span></div>
 					<div class="4u$"><span class="image fit"><img src="/assets/images/jellyfish/notification_swipe_dif_speed.gif" alt="" /></span></div>
 			</div>
-			<h4>App Design</h4>
+			<h4>Messages App Design</h4>
 			<!-- Messages app -->
 			<p>For one of our 10 apps, I created the Messages app. I started out by doing some competitive analysis of other existing messaging apps. I picked out the elements that I liked and disliked, then combined them and made sure they matched our design language</p>
+			<h5>Competitive Analysis</h5>
 			<span class="image fit"><img src="/assets/images/jellyfish/references.png"/></span>
+			<h5>Initial Designs</h5>
 			<span class="image fit"><img src="/assets/images/jellyfish/messages_v1.png"/></span>
 			<span class="image fit"><img src="/assets/images/jellyfish/messages_v2.png"/></span>
-			<p class="caption"></p>
+			<h5>Final Designs</h5>
+			<p>When we got near the end of the project, we decided not to finish the Messages app design. However, at this point, we realized we had strayed from our established design language and were stuck in a rut. We scrapped our previous designs, and I created less extensive versions that better reflected what we wanted for our look and feel.</p>
+			<span class="image fit"><img src="/assets/images/jellyfish/messages_final.png"/></span>
 			<h4>Icon Library</h4>
 			<!-- Created a library of ~80 icons -->
-			<p></p>
+			<p><span class="image right"><img src="/assets/images/jellyfish/icon_library.png"/></span>My biggest contribution to this project was the icon library. In our initial designs, we used icons from various icon libraries that we found online. However, this made visual consistency difficult. In order to fix this, I created entirely new icons in Adobe Illustrator, making sure they were stylistically consistent. I ended up making roughly <b>80 icons</b>, and almost all of the icons used in our final designs were created by me. To the left are most of icons I made for the project, and below are some of our final screens that show them in use.</p>
+			<span class="image fit"><img src="/assets/images/jellyfish/music_screens.png"/></span>
+			<span class="image fit"><img src="/assets/images/jellyfish/notes_calendar_screens.png"/></span>
+			
 		</div>
 	</section>
 </div>
