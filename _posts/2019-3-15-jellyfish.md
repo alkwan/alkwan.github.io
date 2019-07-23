@@ -54,7 +54,7 @@ nav-menu: true
 			<!-- Messages app -->
 			<p>For one of our 10 apps, I created the Messages app. I started out by doing some competitive analysis of other existing messaging apps. I picked out the elements that I liked and disliked, then combined them and made sure they matched our design language.</p>
 			<h5>Competitive Analysis</h5>
-			<span class="image fit"><img src="/assets/images/jellyfish/references.png"/></span>
+			<span class="image fit"><img src="/assets/images/jellyfish/References.png"/></span>
 			<h5>Initial Designs</h5>
 			<span class="image fit"><img src="/assets/images/jellyfish/messages_v1.png"/></span>
 			<span class="image fit"><img src="/assets/images/jellyfish/messages_v2.png"/></span>
